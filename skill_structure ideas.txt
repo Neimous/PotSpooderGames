@@ -1,0 +1,31 @@
+							SKILLS
+		
+		DESCRIPTION						COOLDOWN (0-5sec short, 6-20sec average, 20< sec long )
+
+-fury, small aura surrounding character that deals damage to enemies	permanent(no cooldown)
+damage increases with level
+
+-cleave, deals average damage to enemies in front			average
+damage increases, cooldown decreases with level
+
+-dash, travel a small distance quickly					average-short
+decreases cooldown with level
+
+-whirlwind, pulls enemies closer together in front of you		long
+increases range with level
+
+-slam, damages enemies in line in front of you				average
+increases damage, cooldown decreases with level
+
+-blade storm, applies DoT in a large area				long
+increases radius with level
+							STRUCTURES
+
+-slowing aura, slows enemies near it
+increases slow effectiveness with level
+
+-dart trap, damages enemies in front of it
+increases damage with level
+
+-damage aura, increases damage deal next to it
+extends radius with level
