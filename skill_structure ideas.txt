@@ -29,3 +29,6 @@ increases damage with level
 
 -damage aura, increases damage deal next to it
 extends radius with level
+
+-ability aura, decreases ability cooldowns
+extends radius with level
