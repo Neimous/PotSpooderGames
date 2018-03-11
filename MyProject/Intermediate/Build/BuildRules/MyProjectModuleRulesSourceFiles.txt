@@ -1,0 +1,3 @@
+D:\PotSpooderGames\MyProject\Source\MyProject\MyProject.Build.cs
+D:\PotSpooderGames\MyProject\Source\MyProject.Target.cs
+D:\PotSpooderGames\MyProject\Source\MyProjectEditor.Target.cs
