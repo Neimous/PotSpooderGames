@@ -19,6 +19,11 @@ increases damage, cooldown decreases with level
 
 -blade storm, applies DoT in a large area				long
 increases radius with level
+
+-blood sanctuary, AoE where health does not decrease but damage 	very long
+	is instead stored and dealt to all left inside after duration.
+range increases with level
+
 							STRUCTURES
 
 -slowing aura, slows enemies near it
@@ -32,3 +37,6 @@ extends radius with level
 
 -ability aura, decreases ability cooldowns
 extends radius with level
+
+-wind aura, increases player movement and attack speed
+extends radius and slightly increases effectiveness with level
