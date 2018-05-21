@@ -1,4 +1,4 @@
-// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -60,7 +60,7 @@ void EmptyLinkFunctionForGeneratedCodeMyProjectGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMyProjectGameMode, 1443819839);
+	IMPLEMENT_CLASS(AMyProjectGameMode, 2312305837);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AMyProjectGameMode(Z_Construct_UClass_AMyProjectGameMode, &AMyProjectGameMode::StaticClass, TEXT("/Script/MyProject"), TEXT("AMyProjectGameMode"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AMyProjectGameMode);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
